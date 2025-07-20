@@ -1,16 +1,14 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "Peza Academy",
+		"uniqueTo": "Normalia",
+		"cost": 500,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredBuildingInAllCities": "Military Academy",
+		"requiredTech": "Military Science"
+		"uniques": ["New [Military] units start with [30] XP [in this city]", "Free [Great General] appears", 
+			"All newly-trained [relevant] units [in this city] receive the [Shock I] promotion",
+			"Gain a free [Training Camp] [in all cities]"],
 	},
 	{
 		"name": "Breeders",
