@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Normalia",
-		"leaderName": "Average Joe",
-		"adjective": ["average"],
+		"name": "Namko",
+		"leaderName": "Kenshiro Otaka",
+		"adjective": ["namkan"],
 		"startBias": [""],
-		"preferredVictoryType": "",
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "The Joe have create a normal and unbais nation",
-		"startIntroPart2": "This is nation have no benefits or anything, good for challenge.",
+		"startIntroPart1": "O Great leader Kenshiro Otaka, The Empire fell by the enemies. You did not. From exile, you forged Namko — a nation of wrath, built in ash.",
+		"startIntroPart2": "Will the great leader Kenshiro Otaka lead our empire to it glory for other.",
 		
 		"declaringWar": "We will declare war on you.",
 		"attacked": "What how dare you!",
-		"defeated": "Well I guess the prediction is right.",
+		"defeated": "We may have lose but will always will come back to reclaim what our!.",
 		"introduction": "Hello welcome to Normalia and you.",
 		
 		"neutralHello": "How are you doing?",
@@ -24,14 +24,14 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting really hit bad.",
+		"afterPeace": "Very well, but we never forget about this.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "Nothing",
-		"cities": ["The Capital","City 1","City 2","City 3","City 4","City 5","City 6","City 7","City 8",
-			"City 9","City 10","City 11","City 12", "City 13","City 14","City 15","City 16","City 17","City 18",
+		"unique": "Glory Of The Ash",
+		"cities": ["Shinkyo","Mukden","Harubin","Dairen","Ryojun","Kitsurin","Chichiharu","Fushun","Shihei",
+			"Tantō","Anzan","Honkei","Tōka", "City 13","City 14","City 15","City 16","City 17","City 18",
 			"City 19","City 20","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
