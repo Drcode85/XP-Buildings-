@@ -28,13 +28,13 @@
 		"afterPeace": "Very well, but we never forget about this.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [20,0,0],
+		"innerColor": [255,80,0],
 		"uniqueName": "Glory Of The Ash",
 		"uniques": ["Free [Great General] appears", "[+15]% [Happiness] <when at war>", "[+15]% Strength <upon conquering a city> <for [5] turns>"],
 		"cities": ["Shinkyo","Mukden","Harubin","Dairen","Ryojun","Kitsurin","Chichiharu","Fushun","Shihei",
-			"Tantō","Anzan","Honkei","Tōka", "City 13","City 14","City 15","City 16","City 17","City 18",
-			"City 19","City 20","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+			"Tantō","Anzan","Honkei","Tōka", "Kamoshi","Hairaru","Kokukō","Korintō","Tekkō","Fushin",
+			"Eikō","Itsujun","Suifenko","Ryūkei","Enkitsu","Tōryō","Shōgen","Hakujō","Chōjō","Han kin",
+			"Nen kō"]
 	}
 ]
