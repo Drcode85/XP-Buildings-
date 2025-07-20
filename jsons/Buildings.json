@@ -15,6 +15,6 @@
 		"name": "Training Camp",
 		"cost": 300,
 		"uniqueTo": "Namko",
-		"uniques": ["Can only be built <if [Peza Acedamy] is constructed>", "New [Military] units start with [15] XP [in this city]"],
+		"uniques": ["Can only be built <if [Peza Academy] is constructed>", "New [Military] units start with [15] XP [in this city]"],
 	}
 ]
