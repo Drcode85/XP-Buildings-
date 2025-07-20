@@ -3,7 +3,7 @@
 		"name": "Namko",
 		"leaderName": "Kenshiro Otaka",
 		"adjective": ["namkan"],
-		"startBias": ["Plain"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "O Great leader Kenshiro Otaka, The Empire fell by the enemies. You did not. From exile, you forged Namko — a nation of wrath, built in ash.",
@@ -29,7 +29,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "Glory Of The Ash",
+		"uniquesName": "Glory Of The Ash",
 		"cities": ["Shinkyo","Mukden","Harubin","Dairen","Ryojun","Kitsurin","Chichiharu","Fushun","Shihei",
 			"Tantō","Anzan","Honkei","Tōka", "City 13","City 14","City 15","City 16","City 17","City 18",
 			"City 19","City 20","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
