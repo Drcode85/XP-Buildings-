@@ -1,6 +1,6 @@
 [
   {
     "name": "Glory Before Death",
-    "uniques": ["[+37]% Strength <when below [20] HP>"]
+    "uniques": ["[+37]% Strength <for [wounded] units>"]
   }
 ]
