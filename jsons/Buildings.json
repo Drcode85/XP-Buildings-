@@ -3,18 +3,18 @@
 		"name": "Peza Academy",
 		"uniqueTo": "Namko",
 		"cost": 500,
+		"culture": 2,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Military Academy",
 		"requiredTech": "Military Science"
 		"uniques": ["New [Military] units start with [30] XP [in all cities]", "Free [Great General] appears", 
 			"All newly-trained [relevant] units [in this city] receive the [Glory Before Death] promotion",
-			"Gain a free [Training Camp] [in all cities]"],
+			"Gain a free [Training Camp] [in this city]"],
 	},
 	{
 		"name": "Training Camp",
-		"cost": 0,
+		"cost": 300,
 		"uniqueTo": "Namko",
-		"happiness": 2,
-		"uniques": ["Unbuildable", "New [Military] units start with [15] XP [in this city]"],
+		"uniques": ["Can only be built <if [Peza Acedamy] is constructed>", "New [Military] units start with [15] XP [in this city]"],
 	}
 ]
