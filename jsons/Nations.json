@@ -30,7 +30,8 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"uniquesName": "Glory Of The Ash",
+		"uniqueName": "Glory Of The Ash",
+		"uniques": ["Free [Great General] appear", "[-15]% [Happiness] <when at war>", "[+10]% Strength <upon losing a city> <for [10] turns>"],
 		"cities": ["Shinkyo","Mukden","Harubin","Dairen","Ryojun","Kitsurin","Chichiharu","Fushun","Shihei",
 			"Tantō","Anzan","Honkei","Tōka", "City 13","City 14","City 15","City 16","City 17","City 18",
 			"City 19","City 20","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
