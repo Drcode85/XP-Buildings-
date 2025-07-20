@@ -1,23 +1,20 @@
 [
 	{
 		"name": "Peza Academy",
-		"uniqueTo": "Normalia",
+		"uniqueTo": "Namko",
 		"cost": 500,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Military Academy",
 		"requiredTech": "Military Science"
-		"uniques": ["New [Military] units start with [30] XP [in this city]", "Free [Great General] appears", 
-			"All newly-trained [relevant] units [in this city] receive the [Shock I] promotion",
+		"uniques": ["New [Military] units start with [30] XP [in all cities]", "Free [Great General] appears", 
+			"All newly-trained [relevant] units [in this city] receive the [Glory Before Death] promotion",
 			"Gain a free [Training Camp] [in all cities]"],
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
+		"name": "Training Camp",
+		"cost": 0,
+		"uniqueTo": "Namko",
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"uniques": ["Unbuildable", "New [Military] units start with [15] XP [in this city]",],
 	}
 ]
