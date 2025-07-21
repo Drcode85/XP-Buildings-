@@ -8,12 +8,12 @@
 		"requiredBuildingInAllCities": "Military Academy",
 		"requiredTech": "Military Science"
 		"uniques": ["New [Military] units start with [30] XP [in all cities]", "Free [Great General] appears", 
-			"All newly-trained [relevant] units [in this city] receive the [Glory Before Death] promotion",
+			"All newly-trained [all] units [in this city] receive the [Glory Before Death] promotion",
 			"Gain a free [Training Camp] [in this city]"],
 	},
 	{
 		"name": "Training Camp",
-		"cost": 300,
+		"cost": 160,
 		"uniqueTo": "Namko",
 		"uniques": ["Can only be built <if [Peza Academy] is constructed>", "New [Military] units start with [15] XP [in this city]"],
 	}
