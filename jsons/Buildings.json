@@ -1,20 +1,14 @@
 [
 	{
-		"name": "Peza Academy",
+		"name": "Propaganda Tower",
+		"replaces": "Broadcast Tower",
 		"uniqueTo": "Namko",
-		"cost": 500,
 		"culture": 2,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Military Academy",
-		"requiredTech": "Military Science"
-		"uniques": ["New [Military] units start with [30] XP [in all cities]", "Free [Great General] appears", 
-			"All newly-trained [all] units [in this city] receive the [Glory Before Death] promotion",
-			"Gain a free [Training Camp] [in this city]"],
-	},
-	{
-		"name": "Training Camp",
-		"cost": 160,
-		"uniqueTo": "Namko",
-		"uniques": ["Can only be built <if [Peza Academy] is constructed>", "New [Military] units start with [15] XP [in this city]"],
+		"happiness": 2,
+		"percentStatBonus": {"culture": 25},
+		"requiredBuilding": "Museum",
+		"maintenance": 3,
+		"requiredTech": "Radio",
+		"uniques": ["Destroyed when the city is captured"]
 	}
 ]
