@@ -31,7 +31,7 @@
 		"outerColor": [20,0,0],
 		"innerColor": [255,80,0],
 		"uniqueName": "Glory Of The Ash",
-		"uniques": ["Free [Great General] appears", "[+15]% [Happiness] <when at war>", "[+15]% Strength <upon conquering a city> <for [5] turns>"],
+		"uniques": ["Free [Great General] appears", "New [Military] units start with [30] XP [in your cities]", "[+15]% Strength <upon conquering a city> <for [4] turns>"],
 		"cities": ["Shinkyo","Mukden","Harubin","Dairen","Ryojun","Kitsurin","Chichiharu","Fushun","Shihei",
 			"Tantō","Anzan","Honkei","Tōka", "Kamoshi","Hairaru","Kokukō","Korintō","Tekkō","Fushin",
 			"Eikō","Itsujun","Suifenko","Ryūkei","Enkitsu","Tōryō","Shōgen","Hakujō","Chōjō","Han kin",
