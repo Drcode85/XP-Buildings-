@@ -20,11 +20,11 @@
 		"uniqueTo": "Republic Federation",
 		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 75,
+		"strength": 80,
 		"cost": 450,
 		"requiredTech": "Pharmaceuticals",
 		"promotions": ["Amphibious"],
-		"uniques": ["[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>"],
+		"uniques": ["Invisible to non-adjacent units", "Unable to capture cities", "Ignores terrain cost", "Ignores Zone of Control", "May enter foreign tiles without open borders"],
 		"attackSound": "shot"
 		}
 ]
