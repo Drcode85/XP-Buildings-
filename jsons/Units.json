@@ -15,14 +15,16 @@
 		"uniques": ["No damage penalty for wounded units"]
 	},
 		{
-		"name": "Melee Mercenary",
-		"unitType": "Melee",
+		"name": "Black Unit",
+		"replaces": "Marine",
+		"uniqueTo": "Republic Federation",
+		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 20,
-		"cost": 0,
-		"requiredTech": "Civil Service",
-                "obsoleteTech": "Gunpowder",
-		"attackSound": "metalhit",
-		"uniques": ["Unbuildable", "Earn [50]% of killed [Military] unit's [Cost] as [Gold]", "Can be purchased for [150] [Gold] [in this city]", ]
+		"strength": 75,
+		"cost": 450,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Amphibious"],
+		"uniques": ["[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>"],
+		"attackSound": "shot"
 		}
 ]
