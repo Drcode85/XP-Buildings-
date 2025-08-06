@@ -36,5 +36,42 @@
 			"Tantō","Anzan","Honkei","Tōka", "Kamoshi","Hairaru","Kokukō","Korintō","Tekkō","Fushin",
 			"Eikō","Itsujun","Suifenko","Ryūkei","Enkitsu","Tōryō","Shōgen","Hakujō","Chōjō","Han kin",
 			"Nen kō"]
+	},
+	{
+		"name": "Republic Federation",
+		"leaderName": "Valentine Casdio",
+		"adjective": ["iszanbaton"],
+		"preferredVictoryType": "Diplomacy",
+		"personality": "Kenshiro Otaka",
+		
+		"startIntroPart1": "The Empire has crumbled, but you endure. When Tokyo bowed in disgrace, you did not yield. With the last remnants of the Imperial Army, you fled across the frozen plains of Manchuria — not in surrender, but in defiance. From the ashes of betrayal, you forged Namko — a nation without compromise, built not on diplomacy or gold, but on duty, wrath, and unshakable resolve, Here, the sword is sacred. The soldier is eternal. And the wound of defeat is not shameful — it is a fire that burns hotter with every passing day.",
+		"startIntroPart2": "Will the great leader Kenshiro Otaka lead our empire to it glory for other.",
+		
+		"declaringWar": "We will declare war on you.",
+		"attacked": "What how dare you!",
+		"defeated": "We may have lose but will always will come back to reclaim what our!.",
+		"introduction": "Greetings. I am Kenshiro Otaka, Supreme Order of Namko. I trust you are wise enough to listen — and to understand.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, but we never forget about this.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [20,0,0],
+		"innerColor": [255,80,0],
+		"uniqueName": "Glory Of The Ash",
+		"uniques": ["Free [Great General] appears", "New [Military] units start with [15] XP [in your cities]", "[+15]% Strength <upon conquering a city> <for [4] turns>"],
+		"cities": ["Munchkit City","Ypuam","Matilda Port","Zhakiu","Ryojun","Kitsurin","Chichiharu","Fushun","Shihei",
+			"Tantō","Anzan","Honkei","Tōka", "Kamoshi","Hairaru","Kokukō","Korintō","Tekkō","Fushin",
+			"Eikō","Itsujun","Suifenko","Ryūkei","Enkitsu","Tōryō","Shōgen","Hakujō","Chōjō","Han kin",
+			"Nen kō"]
 	}
 ]
