@@ -10,5 +10,17 @@
 		"maintenance": 3,
 		"requiredTech": "Radio",
 		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Central Market Investment",
+		"replace": "Stock Exchange",
+		"gold": 3,
+		"uniqueTo": "Republic Federation",
+		"percentStatBonus": {"gold": 33},
+		"specialistSlots": {"Merchant": 2},
+		"hurryCostModifier": 15,
+		"uniques":
+		"requiredBuilding": "Bank",
+		"requiredTech": "Electricity"
 	}
 ]
