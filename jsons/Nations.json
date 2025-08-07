@@ -68,7 +68,7 @@
 		"outerColor": [20,0,0],
 		"innerColor": [255,80,0],
 		"uniqueName": "Unnatural Progression",
-		"uniques": ["[50]% [Science] <starting from the [Industrial era]> <when not at war> <while the empire is happy>", "[50]% [Gold] <starting from the [Industrial era]> <when not at war> <while the empire is happy>", "Can build [Improvement] improvements at a [50]% rate <when not at war> <while the empire is happy>", "[50]% spy effectiveness [all] <when espionage is enabled>"],
+		"uniques": ["[50]% [Science] <starting from the [Industrial era]> <when not at war> <while the empire is happy>", "[50]% [Gold] <starting from the [Industrial era]> <when not at war> <while the empire is happy>", "Can build [Improvement] improvements at a [25]% rate <when not at war> <while the empire is happy>", "[50]% spy effectiveness [all] <when espionage is enabled>"],
 		"cities": ["Munchkit City","Y'puam","Matilda Port","New Calone","Albiton","Nvokorsk Bay","Florida City","Xbu","Koal",
 			"Perky Bay","Kamatcha","Isla","Mazio", "Kuala Tembeling","Na'imah","Puala","Tersebun","Nozto","Bison City",
 			"Rizka","Valentine City","Sup'ie","S'iona","Pili","Catelona","Timun","Ruimah","Alipa","Old Trafford",
