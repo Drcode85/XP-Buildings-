@@ -12,15 +12,13 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
-		"name": "Central Market Investment",
-		"replace": "Stock Exchange",
-		"gold": 3,
-		"uniqueTo": "Republic Federation",
-		"percentStatBonus": {"gold": 33},
-		"specialistSlots": {"Merchant": 2},
-		"hurryCostModifier": 15,
-		"uniques":
-		"requiredBuilding": "Bank",
-		"requiredTech": "Electricity"
+		"name": "R&D Facility",
+		"replaces": "Research Lab",
+		"science": 4,
+		"uniques": ["[-20]% maintenance cost for [all] buildings [in all cities]", "[+1 Science] from [Snow] tiles [in this city]"],
+		"percentStatBonus": {"science": 50},
+		"specialistSlots": {"Scientist": 1},
+		"maintenance": 3,
+		"requiredTech": "Plastics"
 	}
 ]
