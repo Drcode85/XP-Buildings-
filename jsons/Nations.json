@@ -68,7 +68,7 @@
 		"outerColor": [20,0,0],
 		"innerColor": [255,80,0],
 		"uniqueName": "Unnatural Progression",
-		"uniques": ["Free [Great General] appears", "New [Military] units start with [15] XP [in your cities]", "[+15]% Strength <upon conquering a city> <for [4] turns>"],
+		"uniques": ["Can build [Improvement] improvements at a [50]% rate <when not at war> <while the empire is happy>"],
 		"cities": ["Munchkit City","Ypuam","Matilda Port","Zhakiu","Ryojun","Kitsurin","Chichiharu","Fushun","Shihei",
 			"Tantō","Anzan","Honkei","Tōka", "Kamoshi","Hairaru","Kokukō","Korintō","Tekkō","Fushin",
 			"Eikō","Itsujun","Suifenko","Ryūkei","Enkitsu","Tōryō","Shōgen","Hakujō","Chōjō","Han kin",
