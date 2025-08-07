@@ -41,7 +41,7 @@
 		"name": "Republic Federation",
 		"leaderName": "Valentine Casdio",
 		"adjective": ["iszanbaton"],
-		"preferredVictoryType": "Diplomacy",
+		"preferredVictoryType": "Diplomatic",
 		"personality": "Valentine Casdio",
 		
 		"startIntroPart1": "Once the dawn of brutal monarch have topple, have come a new bright future of light for the shatter world, the nation of hope — Republic Federation, guided by a mystery leader with unnatural skill and genius one of the leader that born, that lead nation to sudden greatness.",
@@ -73,5 +73,6 @@
 			"Perky Bay","Kamatcha","Isla","Mazio", "Kuala Tembeling","Na'imah","Puala","Tersebun","Nozto","Bison City",
 			"Rizka","Valentine City","Sup'ie","S'iona","Pili","Catelona","Timun","Ruimah","Alipa","Old Trafford",
 			"Las Navi"]
+		"spyNames": ["Feron","Amani","Khalisha","Alira","Eren","Rico","Reed","Elisha","Tezel","Misa"]
 	}
 ]
