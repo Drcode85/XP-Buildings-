@@ -68,9 +68,9 @@
 		"outerColor": [20,0,0],
 		"innerColor": [255,80,0],
 		"uniqueName": "Unnatural Progression",
-		"uniques": ["Can build [Improvement] improvements at a [50]% rate <when not at war> <while the empire is happy>"],
-		"cities": ["Munchkit City","Ypuam","Matilda Port","Zhakiu","Ryojun","Kitsurin","Chichiharu","Fushun","Shihei",
-			"Tantō","Anzan","Honkei","Tōka", "Kamoshi","Hairaru","Kokukō","Korintō","Tekkō","Fushin",
+		"uniques": ["[50]% [Science] <starting from the [Industrial era]> <when not at war> <while the empire is happy>", "[50]% [Gold] <starting from the [Industrial era]> <when not at war> <while the empire is happy>", "Can build [Improvement] improvements at a [50]% rate <when not at war> <while the empire is happy>", "[50]% spy effectiveness [all] <when espionage is enabled>"],
+		"cities": ["Munchkit City","Y'puam","Matilda Port","New Calone","Albiton","Nvokorsk Bay","Florida City","Xbu","Koal",
+			"Perky Bay","Anzan","Honkei","Tōka", "Kamoshi","Hairaru","Kokukō","Korintō","Tekkō","Fushin",
 			"Eikō","Itsujun","Suifenko","Ryūkei","Enkitsu","Tōryō","Shōgen","Hakujō","Chōjō","Han kin",
 			"Nen kō"]
 	}
