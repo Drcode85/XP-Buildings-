@@ -15,7 +15,7 @@
 		"name": "R&D Facility",
 		"replaces": "Research Lab",
 		"science": 4,
-		"uniques": ["[-20]% maintenance cost for [all] buildings [in all cities]", "[+1 Science] from [Snow] tiles [in this city]"],
+		"uniques": ["[-20]% maintenance cost for [all] buildings [in all cities]", "[+1 Science] from [Mountain] tiles [in this city]", "[+1 Science] from [Snow] tiles [in this city]"],
 		"percentStatBonus": {"science": 50},
 		"specialistSlots": {"Scientist": 1},
 		"maintenance": 3,
