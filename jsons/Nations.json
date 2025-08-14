@@ -67,12 +67,12 @@
 
 		"outerColor": [20,0,0],
 		"innerColor": [255,80,0],
-		"uniqueName": "Unnatural Progression",
-		"uniques": ["[50]% [Science] <starting from the [Industrial era]> <when not at war> <while the empire is happy>", "[50]% [Culture] <starting from the [Industrial era]> <when not at war> <while the empire is happy>", "[50]% [Gold] <starting from the [Industrial era]> <when not at war> <while the empire is happy>", "[50]% Great Person generation [in all cities] <when not at war> <while the empire is happy>"],
+		"uniqueName": "For the People",
+		"uniques": ["[+1 Gold, +1 Culture, +1 Science, +1 Production] per [3] population [in all cities]", "[+1] population in a random city <upon entering a Golden Age>", "[50]% Great Person generation [in all cities] <when not at war> <while the empire is happy>"],
 		"cities": ["Munchkit City","Y'puam","Matilda Port","New Calone","Albiton","Nvokorsk Bay","Florida City","Xbu","Koal",
 			"Perky Bay","Kamatcha","Isla","Mazio", "Kuala Tembeling","Na'imah","Puala","Tersebun","Nozto","Bison City",
 			"Rizka","Valentine City","Sup'ie","S'iona","Pili","Catelona","Timun","Ruimah","Alipa","Old Trafford",
-			"Las Navi"]
+			"Las Navi","Kocali","Fory","Izona","Catelona","Terraci","Unfok"]
 		"spyNames": ["Feron","Amani","Khalisha","Alira","Eren","Rico","Reed","Elisha","Tezel","Misa"]
 	}
 ]
